@@ -1,4 +1,4 @@
-# githubhosts_auto_updater
+# GitHubHosts Auto Updater
 
 Update hosts to access GitHub in China
 
@@ -33,4 +33,6 @@ or
    sudo sh -c 'echo "0 * * * * python ~/.githubhosts_auto_updater/githubhosts_auto_updater.py" >> /etc/crontab'
    ```
 
-   
+# Announcement
+
+Hosts file from https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts
